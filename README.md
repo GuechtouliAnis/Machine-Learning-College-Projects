@@ -171,4 +171,4 @@ The implementation of the iris recognition project is available in the Jupyter n
 These projects demonstrate the application of machine learning techniques to solve real-world problems. The projects cover a wide range of topics, including text classification, audio processing, and biometric recognition. By working on these projects, I have gained valuable experience in data preprocessing, feature extraction, model training, and evaluation. I hope these projects inspire you to explore the exciting field of machine learning and develop your own innovative solutions.
 
 ## Note about the authors
-Some of these were group projects, and the authors are mentioned in each project's respective notebook.
+These were group projects, and the authors are mentioned in each project's respective notebook.
