@@ -132,6 +132,8 @@ The implementation of the voice classification project is available in the Jupyt
 
 ## 4. Iris Recognition
 
+<img src='iris_recognition/images/image_1.png'>
+
 ### Description
 This project focuses on iris recognition using machine learning techniques. The goal is to accurately identify individuals based on their iris patterns.
 
@@ -160,6 +162,27 @@ Several machine learning models are trained and evaluated using different random
 - K-Nearest Neighbors (KNN)
 - Random Forest
 - Multinomial Naive Bayes
+
+### Usage Example
+1. Click on "Browse files" to upload an image of an iris.
+
+<img src='iris_recognition/images/image_2.png'>
+<img src='iris_recognition/images/image_3.png'>
+
+2. After uploading the image click on "Start the identification process", the model will predict whether the image is of an iris or not.
+
+If the image is not of an iris, it will display "Image uploaded is invalid".
+<img src='iris_recognition/images/image_4.png'>
+
+3. If the image is of an iris, the model will search the database for a match and display the result.
+
+4. If no match is found, it will display "No matches from the dataset, user does not exist".
+
+<img src='iris_recognition/images/image_5.png'>
+
+5. If a match is found, it will display the user ID and the image of the matched iris.
+
+<img src='iris_recognition/images/image_6.png'>
 
 ### Model Evaluation
 The best model is selected based on the evaluation metrics, and its performance is reported using precision, recall, and F1-score.
